@@ -4,6 +4,10 @@ Welcome to the Python Introduction Course tailored for students at Institut d'Op
 
 This course is designed to provide a comprehensive introduction to the Python programming language, catering specifically to the needs and interests of students at these esteemed institutions. Whether you're delving into programming for the first time or expanding your skill set, Python is a versatile language that can empower you in various domains, from optics to scientific research.
 
+Course Supervised By:
+
+Sayan CHAKI, Doctoral student at Laboratoire Hubert Curien, INRIA, CNRS.
+
 ## Course Overview
 
 ### Day 1: Python Basics
