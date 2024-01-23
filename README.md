@@ -40,7 +40,7 @@ To embark on your Python learning journey, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/python-intro-course.git
+   git clone https://github.com/SayanKChaki/Introduction-to-Python.git
    ```
 
 2. **Navigate to the Course Folder:**
