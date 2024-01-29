@@ -2,6 +2,9 @@
 
 #This code contains a basic example of implementing simple linear regression using Python with scikit-learn.
 
+#Link to download housing data:https://nickmccullum.com/Housing_Data.csv
+
+
 import pandas as pd
 
 import numpy as np
