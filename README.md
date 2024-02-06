@@ -62,6 +62,11 @@ To embark on your Python learning journey, follow these steps:
 - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
 - [SciPy Documentation](https://docs.scipy.org/doc/)
 
+### Day 3
+
+- Intro to Neural Networks [https://colab.research.google.com/drive/1F7dLLKirVb81G1fhtLqnAL63KZrkETbu#scrollTo=zaQtmgsXl-_d] 
+- Deep Neural Nets [https://colab.research.google.com/drive/1IiXk3Ex86Kb29XACBQcTtPxPSBXzZgmK#scrollTo=NxzAOv7K7j2y]
+
 ## Contributing
 
 If you have suggestions, encounter issues, or wish to contribute to the course content, please open an issue or submit a pull request. Your participation is valued!
