@@ -7,7 +7,7 @@ This course is designed to provide a comprehensive introduction to the Python pr
 Course Supervised By:
 
 Sayan CHAKI, Doctoral student at Laboratoire Hubert Curien, INRIA, CNRS.
-
+https://colab.research.google.com/drive/1VYR35YNw5bbbFkkuRqc7rdgE8Plzz5SG?usp=sharing
 ## Course Overview
 
 ### Day 1: Python Basics
